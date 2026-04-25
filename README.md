@@ -146,6 +146,7 @@ Edit Profile - Update bodyweight to maintain accurate relative strength
 Refresh Data - Pull down or use refresh button to sync latest rankings
 
 # Ranking Tiers
+```
 Tier	Compound	Pure Isolation	Primary Isolation	Overall
 Bronze I	< 0.6	< 0.8	< 0.9	< 0.7
 Silver III	0.6-0.7	0.8-0.95	0.9-1.0	0.7-0.85
@@ -163,7 +164,7 @@ Diamond I	1.7-1.8	2.7-2.9	2.5-2.6	2.45-2.7
 Elite III	1.8-1.9	2.9-3.1	2.6-2.75	2.7-3.0
 Elite II	1.9-2.0	3.1-3.3	2.75-3.0	3.0-3.4
 Elite I	2.0+	3.3+	3.0+	3.4+
-
+```
 ### Project Structure
 ```
 Android
