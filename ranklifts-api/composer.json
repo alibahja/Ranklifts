@@ -1,0 +1,12 @@
+{    "name": "ranklifts/php-backend",
+    "description": "RankLifts Backend - PHP API",
+    "type": "project",
+    "require": {
+        "firebase/php-jwt": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    }
+}
